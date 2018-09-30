@@ -45,7 +45,8 @@ namespace PolarisSolutions
             return false;
         }
         public static void PunchInAndOut() {
-            
+            // we can;t hide neither minimize the window while the process is being executed. BUt there are workarounds - not recommended though
+            //
             var driver = new ChromeDriver();
             driver.Navigate().GoToUrl(defaultUrl);
 
