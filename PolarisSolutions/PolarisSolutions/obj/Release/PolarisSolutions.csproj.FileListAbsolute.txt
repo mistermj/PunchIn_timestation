@@ -23,3 +23,6 @@ C:\Users\KingZeus\documents\visual studio 2015\Projects\PolarisSolutions\Polaris
 C:\Users\KingZeus\documents\visual studio 2015\Projects\PolarisSolutions\PolarisSolutions\obj\Release\PolarisSolutions.exe
 C:\Users\KingZeus\documents\visual studio 2015\Projects\PolarisSolutions\PolarisSolutions\obj\Release\PolarisSolutions.pdb
 C:\Users\KingZeus\documents\visual studio 2015\Projects\PolarisSolutions\PolarisSolutions\obj\Release\PolarisSolutions.csprojResolveAssemblyReference.cache
+C:\Users\KingZeus\Documents\GitHub\PunchIn_timestation\PolarisSolutions\PolarisSolutions\bin\Release\PolarisSolutions.exe.config
+C:\Users\KingZeus\Documents\GitHub\PunchIn_timestation\PolarisSolutions\PolarisSolutions\obj\Release\PolarisSolutions.exe
+C:\Users\KingZeus\Documents\GitHub\PunchIn_timestation\PolarisSolutions\PolarisSolutions\obj\Release\PolarisSolutions.pdb
